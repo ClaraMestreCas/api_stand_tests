@@ -20,7 +20,7 @@ Trabajo realizado para la tarea de pruebas del back-end de Urban.Grocers.
 
  # Herramientas utilizadas
 
-- Postman: Ejecución de pruebas de API.
-- Google Sheets: Diseño de la checklist.
-- Jira: Reporte y seguimiento de incidencias.
-- Apidoc: Documentación de la API.
+- Postman: ejecución de pruebas de API.
+- Google Sheets: diseño de la checklist.
+- Jira: deporte y seguimiento de incidencias.
+- Apidoc: documentación de la API.
