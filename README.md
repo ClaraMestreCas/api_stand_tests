@@ -1,6 +1,6 @@
 Trabajo realizado para la tarea de pruebas del back-end de Urban.Grocers.
 
-### Descripción de la tarea
+## Descripción de la tarea
 
 1. Análisis de requisitos
 - Se revisaron los requisitos para la nueva funcionalidad del back-end.
@@ -18,7 +18,7 @@ Trabajo realizado para la tarea de pruebas del back-end de Urban.Grocers.
 4. Gestión de incidencias
 - En caso de encontrar errores, se documentaron y reportaron en Jira siguiendo el flujo de trabajo estándar.
 
- # Herramientas utilizadas
+ ## Herramientas utilizadas
 
 - Postman: ejecución de pruebas de API.
 - Google Sheets: diseño de la checklist.
