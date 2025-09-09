@@ -17,3 +17,10 @@ Trabajo realizado para la tarea de pruebas del back-end de Urban.Grocers.
 
 4. Gestión de incidencias
 - En caso de encontrar errores, se documentaron y reportaron en Jira siguiendo el flujo de trabajo estándar.
+
+ # Herramientas utilizadas
+
+- Postman: Ejecución de pruebas de API.
+- Google Sheets: Diseño de la checklist.
+- Jira: Reporte y seguimiento de incidencias.
+- Apidoc: Documentación de la API.
