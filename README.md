@@ -1,9 +1,9 @@
-### 🏢 Pruebas de Back-End – Urban.Grocers
+## 🏢 Pruebas de Back-End – Urban.Grocers
 
 Este proyecto documenta el trabajo realizado para la tarea de pruebas del back-end de Urban.Grocers,
 enfocado en la verificación de nuevas funcionalidades de la API.
 
-## 📄 Descripción de la tarea
+### 📄 Descripción de la tarea
 
 **1. Análisis de requisitos**
 - Se revisaron los requisitos para la nueva funcionalidad del back-end.
@@ -21,7 +21,7 @@ enfocado en la verificación de nuevas funcionalidades de la API.
 **4. Gestión de incidencias**
 - En caso de encontrar errores, se documentaron y reportaron en **Jira** siguiendo el flujo de trabajo estándar.
 
- ## 🛠️ Herramientas utilizadas
+ ### 🛠️ Herramientas utilizadas
 
 - **Postman**: ejecución de pruebas de API.
 - **Google Sheets**: diseño de la checklist.
